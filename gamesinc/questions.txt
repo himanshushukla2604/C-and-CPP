@@ -1,0 +1,6 @@
+Malloc returns address as
+a. Int.
+b. Integer Pointer.
+c. Charecter Points.
+d. Void pointer.
+d
